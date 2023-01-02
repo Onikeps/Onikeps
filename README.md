@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onikeps
 - 👀 I’m interested in programming, networking and Artificial intelligence
-- 🌱 I’m currently learning python and Artificial intelligence tools
+- 🌱 I’m skilling up and participating in projects using python and Artificial intelligence tools
 - 💞️ I’m looking to collaborate on my interests 
 - 📫 How to reach me via onikepoamodu@gmail.com
 
